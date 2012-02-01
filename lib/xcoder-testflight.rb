@@ -1,0 +1,1 @@
+require 'xcoder_testflight'
